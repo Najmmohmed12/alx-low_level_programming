@@ -1,4 +1,4 @@
-#ifndef LINKED
+#ifdef LINKED
 #define LINKED
 
 #include <stddef.h>
